@@ -1,4 +1,3 @@
-layout_spectrum: 0.979442996904254
 typography_spectrum: 0.15767612867057323
 color:
   brandStrength: 0.042747933650389314
@@ -11,5 +10,7 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.979442996904254
 name: APTF
 title: A Place To Float
+description: Flotation Therapy Spa
