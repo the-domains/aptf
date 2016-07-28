@@ -6,9 +6,10 @@ color:
   saturation: 0.9751079478301108
   rhythmicContrast: 0.18769267643801868
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: APTF
+title: A Place To Float
